@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Andrew San Antonio</h1>
+<h3 align="center">A Passionate Frontend and Backend in Philippines</h3>
 
-<!--
-**AndrewSanAntonio1/AndrewSanAntonio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Frontend_Engine **React,Spring boot**
 
-Here are some ideas to get you started:
+- 👨‍💻 My Portfolio link [https://andrewsanantonio1.github.io/My-Personal-Portfolio/?fbclid=https://andrewsanantonio1.github.io/My-Personal-Portfolio/#portfolio](https://andrewsanantonio1.github.io/My-Personal-Portfolio/?fbclid=https://andrewsanantonio1.github.io/My-Personal-Portfolio/#portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **java,python,javascript,c,c#,**
+
+- 📫 How to reach me **sgandrew290@gmail.com**
+
+- 📄 Know about my experiences [https://cdn.fbsbx.com/v/t59.2708-21/650255012_951763433928414_3998167305578229456_n.pdf/CV-andrew-san-antonio.pdf?_nc_cat=110&ccb=1-7&_nc_sid=2b0e22&_nc_eui2=AeGd01iQDKlSdSmGf7QLqkZ9fEMWPgrEHHN8QxY-CsQcc4m7VuDx1V8oJirQNb0ViYxvIz3pt7lMJGwKaokpzZqN&_nc_ohc=ehLFofT-inUQ7kNvwEkel3E&_nc_oc=AdpFp9vtPzQWr9ETgZFZWTyM0D7IMJJSvNcyc7uLGGVjvtZT9dvBExK36isnVE81exyPSKDUJJkb0J5hWEf1rUh-&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=LRyebc4J6BHvUbTgkTveGw&_nc_ss=7a32e&oh=03_Q7cD4wEO0aHicAMuxR7P5ftsm1uEXaLB955DHPqGU_PFkDUKEA&oe=69C28251&dl=1](https://cdn.fbsbx.com/v/t59.2708-21/650255012_951763433928414_3998167305578229456_n.pdf/CV-andrew-san-antonio.pdf?_nc_cat=110&ccb=1-7&_nc_sid=2b0e22&_nc_eui2=AeGd01iQDKlSdSmGf7QLqkZ9fEMWPgrEHHN8QxY-CsQcc4m7VuDx1V8oJirQNb0ViYxvIz3pt7lMJGwKaokpzZqN&_nc_ohc=ehLFofT-inUQ7kNvwEkel3E&_nc_oc=AdpFp9vtPzQWr9ETgZFZWTyM0D7IMJJSvNcyc7uLGGVjvtZT9dvBExK36isnVE81exyPSKDUJJkb0J5hWEf1rUh-&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=LRyebc4J6BHvUbTgkTveGw&_nc_ss=7a32e&oh=03_Q7cD4wEO0aHicAMuxR7P5ftsm1uEXaLB955DHPqGU_PFkDUKEA&oe=69C28251&dl=1)
+
+- About Me **I enjoy coding using Java because it allows me to build powerful, scalable, and efficient applications. Java has a clean syntax that helps me understand programming concepts more easily, especially object oriented principles like inheritance, encapsulation, and polymorphism. I like how Java is platform independent, meaning I can write code once and run it anywhere without worrying about compatibility issues. Working with Java also gives me access to a large community, helpful libraries, and strong development tools. Overall, coding in Java makes me feel creative, challenged, and constantly learning new skills. It keeps me motivated to improve every single day.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/andrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew" height="30" width="40" /></a>
+<a href="https://fb.com/andrew san antonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrew san antonio" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
