@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Andrew+San+Antonio;Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Andrew+San+Antonio;Full+Stack+Java+Developer;Java+%7C+React+%7C+Spring+Boot" />
 </h1>
 
-<h3 align="center">Passionate Full Stack Developer from Philippines 🇵🇭</h3>
+<h3 align="center">Passionate Full Stack Java Developer from Philippines 🇵🇭</h3>
 
 ## About Me
 - Currently learning React & Spring Boot  
