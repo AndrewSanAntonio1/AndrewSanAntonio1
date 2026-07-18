@@ -1,0 +1,123 @@
+<svg width="1200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dark gradient background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Cyan glow (Three.js signature color) -->
+    <linearGradient id="cyanGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#00FFFF;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Black background -->
+  <rect width="1200" height="200" fill="url(#bgGradient)"/>
+  
+  <!-- Wireframe Grid Lines (Three.js style) -->
+  <g opacity="0.15" stroke="#00D9FF" stroke-width="1" fill="none">
+    <line x1="0" y1="50" x2="1200" y2="50"/>
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="200"/>
+    <line x1="600" y1="0" x2="600" y2="200"/>
+    <line x1="800" y1="0" x2="800" y2="200"/>
+    <line x1="1000" y1="0" x2="1000" y2="200"/>
+  </g>
+
+  <!-- Rotating 3D Wireframe Cube (Left) -->
+  <g transform="translate(150, 100)">
+    <g opacity="0.8" stroke="#00D9FF" stroke-width="2" fill="none">
+      <rect x="-30" y="-30" width="60" height="60">
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-25" y="-25" width="50" height="50">
+        <animateTransform attributeName="transform" type="rotate" from="45 0 0" to="405 0 0" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- Counting Numbers (0 to 100) with Progress Bar -->
+  <g transform="translate(450, 80)">
+    <!-- Large counter number -->
+    <text x="0" y="0" font-family="'Courier New', monospace" font-size="48" font-weight="bold" fill="#00D9FF" text-anchor="middle" filter="url(#glow)">
+      <animate 
+        attributeName="opacity" 
+        values="0;1" 
+        dur="0.3s" 
+        fill="freeze"
+      />
+      0
+      <animate 
+        attributeName="textContent" 
+        values="0;5;12;19;25;32;38;45;51;58;64;71;77;84;90;95;100" 
+        dur="3s" 
+        fill="freeze"
+        calcMode="discrete"
+        keyTimes="0;0.05;0.12;0.19;0.25;0.32;0.38;0.45;0.51;0.58;0.64;0.71;0.77;0.84;0.90;0.95;1"
+      />
+    </text>
+    
+    <!-- Percent symbol -->
+    <text x="40" y="0" font-family="'Courier New', monospace" font-size="32" fill="#00D9FF" opacity="0.8">
+      %
+    </text>
+    
+    <!-- Progress bar -->
+    <g transform="translate(-200, 30)">
+      <rect x="0" y="0" width="400" height="6" rx="3" fill="#1C2128"/>
+      <rect x="0" y="0" width="0" height="6" rx="3" fill="#00D9FF" filter="url(#glow)">
+        <animate attributeName="width" from="0" to="400" dur="3s" fill="freeze"/>
+      </rect>
+    </g>
+    
+    <!-- Loading text -->
+    <text x="0" y="60" font-family="'Courier New', monospace" font-size="14" fill="#00D9FF" text-anchor="middle" opacity="0.6">
+      LOADING EXPERIENCE...
+    </text>
+  </g>
+
+  <!-- Rotating 3D Sphere wireframe (Right) -->
+  <g transform="translate(1050, 100)">
+    <g opacity="0.6" stroke="#00D9FF" stroke-width="1.5" fill="none">
+      <circle cx="0" cy="0" r="35">
+        <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <ellipse cx="0" cy="0" rx="35" ry="15">
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="3s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="0" cy="0" rx="15" ry="35">
+        <animateTransform attributeName="transform" type="rotate" from="90 0 0" to="450 0 0" dur="3s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+
+  <!-- Particle points (Three.js style) -->
+  <g opacity="0.8" fill="#00D9FF">
+    <circle cx="250" cy="40" r="2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="160" r="2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="50" r="2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="150" r="2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
