@@ -297,7 +297,7 @@ const contact = {
 };
 ```
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge&logoColor=00D9FF)](https://[andrewsanantonio1.github.io/My-Personal-Portfolio/](https://my-portfolio-gamma-ruddy-34.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge&logoColor=00D9FF)](https://[github.com/AndrewSanAntonio1/andrews-portfolio](https://my-portfolio-gamma-ruddy-34.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-000000?style=for-the-badge&logoColor=00D9FF)](https://www.linkedin.com/in/andrew-jr-f-san-antonio-1329b7379/)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-000000?style=for-the-badge&logoColor=00D9FF)](mailto:sgandrew290@gmail.com)
 
