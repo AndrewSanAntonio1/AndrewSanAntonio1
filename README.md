@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Three.js+Explorer;Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Next.js;Three.js+Explorer;Building+the+Future" alt="Typing SVG" />
 </h1>
 
 <!-- Three.js Style Loading Animation -->
@@ -40,7 +40,7 @@
 {
   location: "🇵🇭 Philippines",
   role: "Full Stack Java Developer",
-  focus: ["Spring Boot", "React", "Three.js"],
+  focus: ["Spring Boot", "Next Js", "Three.js"],
   passion: "Building immersive web experiences",
   approach: "AI-assisted development",
   mindset: "Always learning, always building",
