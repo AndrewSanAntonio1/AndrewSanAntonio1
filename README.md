@@ -1,206 +1,135 @@
 # 👋 Andrew San Antonio
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:00D9FF,100:000000&text=Andrew%20San%20Antonio&fontColor=00FFFF&fontSize=48&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0D1B2A,100:020617&text=Andrew%20San%20Antonio&fontColor=7DD3FC&fontSize=46&animation=fadeIn" alt="Andrew San Antonio banner" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Next.js;Three.js+Explorer;Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Next.js;Three.js+Explorer;Building+immersive+web+experiences" alt="Typing SVG" />
 </h1>
 
-<!-- Three.js Style Loading Animation -->
 <p align="center">
-  <img src="./assets/loading-animation.svg" width="100%" alt="Loading Animation"/>
+  <img src="./assets/loading-animation.svg" width="100%" alt="Custom loading animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AndrewSanAntonio1">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/andrew-jr-f-san-antonio-1329b7379/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" alt="LinkedIn" />
   </a>
   <a href="mailto:sgandrew290@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
+    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=7DD3FC" alt="Email" />
   </a>
   <a href="https://andrewsanantonio1.github.io/My-Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00D9FF"/>
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=google-chrome&logoColor=7DD3FC" alt="Portfolio" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Philippines-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Spring%20Boot%20%7C%20Next.js%20%7C%20Three.js-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Approach-AI-assisted%20Development-22C55E?style=flat-square" />
 </p>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-## 🚀 `const aboutMe = {`
+I’m a developer who enjoys turning ideas into reliable products and memorable digital experiences. My work combines backend engineering, modern frontend development, and a growing interest in 3D and interactive web experiences.
 
-</div>
+- Full Stack Java developer with a strong backend foundation
+- Experienced with Spring Boot, Next.js, and modern web tooling
+- Interested in 3D web graphics and immersive interfaces
+- Building with AI-assisted workflows to speed up development and improve quality
+- Always learning, shipping, and refining systems for real-world use
 
 ```javascript
-{
-  location: "🇵🇭 Philippines",
+const aboutMe = {
+  location: "Philippines",
   role: "Full Stack Java Developer",
-  focus: ["Spring Boot", "Next Js", "Three.js"],
+  focus: ["Spring Boot", "Next.js", "Three.js"],
   passion: "Building immersive web experiences",
   approach: "AI-assisted development",
   mindset: "Always learning, always building",
   currently: "Exploring 3D web graphics with Three.js"
-}
+};
 ```
 
+---
+
+## 💻 Tech Stack
+
 <div align="center">
-
-## `}`
-
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,js,ts,threejs,nodejs,html,css,mysql,postgresql,docker,git,github" alt="Technology stack" />
 </div>
+
+### Core strengths
+
+- Java / Spring Boot
+- React / Next.js
+- JavaScript / TypeScript
+- MySQL / PostgreSQL
+- Docker / Git / GitHub
+- REST APIs and full-stack application flows
+- 3D and interactive frontend experimentation
 
 ---
 
-## 💻 `<TechStack />`
-
-<div align="center">
-
-### ⚡ Core Technologies
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>
-<sub><b>Java</b></sub><br>
-<sub>⬢⬢⬢⬢⬢⬢⬢⬢⬡⬡</sub><br>
-<sub>80%</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br>
-<sub><b>Spring Boot</b></sub><br>
-<sub>⬢⬢⬢⬢⬢⬢⬢⬢⬡⬡</sub><br>
-<sub>80%</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>
-<sub><b>React</b></sub><br>
-<sub>⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡</sub><br>
-<sub>75%</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" /><br>
-<sub><b>Three.js</b></sub><br>
-<sub>⬢⬢⬢⬢⬡⬡⬡⬡⬡⬡</sub><br>
-<sub>40%</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br>
-<sub><b>JavaScript</b></sub><br>
-<sub>⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡</sub><br>
-<sub>75%</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>
-<sub><b>MySQL</b></sub><br>
-<sub>⬢⬢⬢⬢⬢⬢⬢⬡⬡⬡</sub><br>
-<sub>70%</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
-<sub><b>Docker</b></sub><br>
-<sub>⬢⬢⬢⬢⬢⬢⬡⬡⬡⬡</sub><br>
-<sub>60%</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
-<sub><b>Git</b></sub><br>
-<sub>⬢⬢⬢⬢⬢⬢⬢⬢⬡⬡</sub><br>
-<sub>80%</sub>
-</td>
-</tr>
-</table>
-
-### 🛠️ Full Tech Arsenal
-
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=00D9FF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat&logo=spring-boot&logoColor=00D9FF)
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=00D9FF)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=00D9FF)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=00D9FF)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=00D9FF)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00D9FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=00D9FF)
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=00D9FF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=00D9FF)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=00D9FF)
-
-</div>
-
----
-
-## 🤖 `AI.assistedDevelopment()`
-
-<div align="center">
+## 🤖 AI-Assisted Workflow
 
 ```typescript
 interface AIWorkflow {
   tools: ["ChatGPT", "Claude", "Codex", "Kiro"];
   purpose: {
-    architecture: "ChatGPT",
-    codeReview: "Claude", 
-    generation: "Codex",
-    debugging: "Kiro"
+    architecture: "Design and planning";
+    codeReview: "Quality and clarity";
+    generation: "Rapid implementation";
+    debugging: "Issue isolation and fixes";
   };
-  result: "10x productivity boost";
+  outcome: "Faster product development with better structure";
 }
 ```
 
-| 🤖 AI Tool | 🎯 Primary Use | ⚡ Impact |
-|-----------|---------------|----------|
-| **ChatGPT** | Architecture & Design | Problem solving at scale |
-| **Claude** | Code Review & Docs | Quality assurance |
-| **Codex** | Code Generation | Rapid prototyping |
-| **Kiro** | Debug & Refactor | Efficiency boost |
-
-</div>
+| AI Tool | Primary Use | Value |
+|---|---|---|
+| ChatGPT | Architecture and problem solving | Concept clarity |
+| Claude | Code review and documentation | Quality improvement |
+| Codex | Implementation and generation | Speed |
+| Kiro | Debugging and refactoring | Efficiency |
 
 ---
 
-## 🎯 `render() { currentFocus }`
-
-<div align="center">
+## 🎯 Current Focus
 
 ```javascript
 const currentGoals = {
   backend: {
-    mastering: ["Spring Boot Architecture", "Clean Code Principles"],
-    exploring: ["Microservices", "Cloud Deployment"],
-    progress: "⬢⬢⬢⬢⬢⬢⬢⬢⬡⬡ 80%"
+    mastering: ["Spring Boot architecture", "Clean code principles"],
+    exploring: ["Microservices", "Cloud deployment"],
+    progress: "80%"
   },
   frontend: {
-    learning: ["Three.js 3D Graphics", "Advanced React Patterns"],
-    building: ["Interactive 3D Experiences", "WebGL Shaders"],
-    progress: "⬢⬢⬢⬢⬡⬡⬡⬡⬡⬡ 40%"
+    learning: ["Three.js 3D graphics", "Advanced React patterns"],
+    building: ["Interactive experiences", "Modern UI systems"],
+    progress: "40%"
   },
   devops: {
-    current: ["Docker Containers", "CI/CD Pipelines"],
-    next: ["Kubernetes", "AWS Services"],
-    progress: "⬢⬢⬢⬢⬢⬢⬡⬡⬡⬡ 60%"
+    current: ["Docker", "CI/CD workflows"],
+    next: ["Kubernetes", "Cloud services"],
+    progress: "60%"
   }
 };
 ```
 
-</div>
-
 ---
 
-## 🌟 `<FeaturedProject>`
-
-<div align="center">
+## 🌟 Featured Project
 
 ### 🏦 Enterprise Banking System
 
-*Full-stack application with modern architecture*
-
-</div>
+A full-stack application focused on modern architecture, secure access, and business workflow reliability.
 
 ```javascript
 const project = {
@@ -213,79 +142,57 @@ const project = {
     api: "RESTful"
   },
   features: [
-    "🔐 Secure Authentication & Authorization",
-    "👥 Role-based Access Control",
-    "💰 Account Management (Deposit/Withdraw)",
-    "🔄 Inter-account Transfers",
-    "📊 Transaction History & Audit Trail",
-    "✅ Input Validation & Error Handling"
+    "Secure authentication and authorization",
+    "Role-based access control",
+    "Account management and transfers",
+    "Transaction history and audit flow",
+    "Validation and error handling"
   ],
-  highlights: "Enterprise-grade security & Clean architecture"
+  highlight: "Enterprise-grade logic with clean architecture"
 };
 ```
 
 ---
 
-## � `git --stats`
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewSanAntonio1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=00FFFF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSanAntonio1&theme=chartreuse-dark&hide_border=true&background=000000&ring=00D9FF&fire=00FFFF&currStreakLabel=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewSanAntonio1&show_icons=true&theme=radical&hide_border=true&bg_color=0B1220&title_color=7DD3FC&icon_color=67E8F9&text_color=F8FAFC" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSanAntonio1&theme=radical&hide_border=true&background=0B1220&stroke=0EA5E9&ring=7DD3FC&fire=22D3EE&currStreakLabel=7DD3FC" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSanAntonio1&theme=react-dark&hide_border=true&bg_color=000000&color=00D9FF&line=00FFFF&point=FFFFFF&area=true&area_color=00D9FF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSanAntonio1&theme=react-dark&hide_border=true&bg_color=0B1220&color=7DD3FC&line=67E8F9&point=F8FAFC&area=true&area_color=0EA5E9" alt="Contribution graph" />
 </p>
 
 ---
 
-## 🧠 `class EngineeringPrinciples {`
-
-<div align="center">
+## 🧠 Engineering Principles
 
 ```java
 public class DeveloperMindset {
-    // Core Principles
     private final String[] principles = {
         "SOLID", "DRY", "KISS", "YAGNI"
     };
-    
-    // Design Patterns
-    private final Pattern[] patterns = {
-        MVC, Repository, DTO, Factory, Singleton
+
+    private final String[] patterns = {
+        "MVC", "Repository", "DTO", "Factory", "Singleton"
     };
-    
-    // Architecture
-    private final Architecture stack = new Architecture()
-        .withRESTfulAPI()
-        .withServiceLayer()
-        .withSecurityFirst()
-        .withCleanCode();
+
+    private final String architecture = "RESTful + service layer + security first";
 }
 ```
 
-</div>
-
-<div align="center">
-
-| 🏗️ Architecture | 🎨 Design Patterns | 🔐 Security |
-|---------------|-------------------|------------|
-| MVC Pattern | Repository Pattern | Spring Security |
-| REST API Design | DTO Pattern | JWT Authentication |
-| Service Layer | Factory Pattern | Role-based Auth |
-| Clean Architecture | Singleton Pattern | Input Validation |
-
-</div>
-
-## `}`
+| Area | Focus |
+|---|---|
+| Architecture | MVC, layered services, clean boundaries |
+| Design | Maintainable UI and backend contracts |
+| Security | Authorization, validation, safe patterns |
+| Workflow | Structured development with practical iteration |
 
 ---
 
-## � `connect()`
-
-<div align="center">
-
-### Let's Build Something Amazing Together
+## 📬 Connect
 
 ```javascript
 const contact = {
@@ -297,38 +204,31 @@ const contact = {
 };
 ```
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge&logoColor=00D9FF)](https://[github.com/AndrewSanAntonio1/andrews-portfolio](https://my-portfolio-gamma-ruddy-34.vercel.app/))
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-000000?style=for-the-badge&logoColor=00D9FF)](https://www.linkedin.com/in/andrew-jr-f-san-antonio-1329b7379/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-000000?style=for-the-badge&logoColor=00D9FF)](mailto:sgandrew290@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 `// Philosophy`
-
-```javascript
-while (alive) {
-  eat();
-  code();
-  sleep();
-  repeat();
-}
-```
-
-*"Clean code, reliable systems, endless learning."*
+<p align="center">
+  <a href="https://andrewsanantonio1.github.io/My-Personal-Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0B1220?style=for-the-badge&logoColor=7DD3FC" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrew-jr-f-san-antonio-1329b7379/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0B1220?style=for-the-badge&logoColor=7DD3FC" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sgandrew290@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-0B1220?style=for-the-badge&logoColor=7DD3FC" alt="Email" />
+  </a>
+</p>
 
 ---
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AndrewSanAntonio1.AndrewSanAntonio1&color=00D9FF)
-[![Profile Views](https://komarev.com/ghpvc/?username=AndrewSanAntonio1&color=00D9FF&style=flat)](https://github.com/AndrewSanAntonio1)
-
-**⚡ Powered by Three.js aesthetics • Built with ❤️ and ☕ in the Philippines**
-
-</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:000000,50:00D9FF,100:000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,50:0EA5E9,100:020617" alt="Footer wave" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AndrewSanAntonio1.AndrewSanAntonio1&color=0EA5E9" alt="Visitors badge" />
+  <a href="https://github.com/AndrewSanAntonio1">
+    <img src="https://komarev.com/ghpvc/?username=AndrewSanAntonio1&color=7DD3FC&style=flat" alt="Profile views" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Built with curiosity, clean code, and a love for modern product experiences.</strong>
 </p>
